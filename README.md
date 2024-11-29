@@ -33,7 +33,7 @@ I'm a frontend developer who loves bringing web designs to life with code. I hav
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/fatima-saleem-7b4667222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/fatima-saleem-7b4667222" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/fatima-saleem-7b4667222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/fatima-saleem-7b4667222" height="30" width="40" /></a>
 </p>
 <p align="left">
 <a href="https://fatimasaleem778899@gmail.com" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/025/754/835/non_2x/gmail-logo-google-product-icon-of-logotype-gmail-editorial-illustration-free-vector.jpg" height="30" width="40" /></a>
